@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		6BF870D62FFEEB5F00661E25 /* Exceptions for "Forkly_Mark_I" folder in "Forkly_Mark_I" target */ = {
+		6BC9C7903002EE17001BA7AB /* Exceptions for "Forkly_Mark_I" folder in "Forkly_Mark_I" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6BF870C62FFEEB5D00661E25 /* Forkly_Mark_I */ = {
+		6BC9C78A3002EE17001BA7AB /* Forkly_Mark_I */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				6BF870D62FFEEB5F00661E25 /* Exceptions for "Forkly_Mark_I" folder in "Forkly_Mark_I" target */,
+				6BC9C7903002EE17001BA7AB /* Exceptions for "Forkly_Mark_I" folder in "Forkly_Mark_I" target */,
 			);
 			path = Forkly_Mark_I;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		6BF870BB2FFEEB5D00661E25 = {
 			isa = PBXGroup;
 			children = (
-				6BF870C62FFEEB5D00661E25 /* Forkly_Mark_I */,
+				6BC9C78A3002EE17001BA7AB /* Forkly_Mark_I */,
 				6BF870C52FFEEB5D00661E25 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6BF870C62FFEEB5D00661E25 /* Forkly_Mark_I */,
+				6BC9C78A3002EE17001BA7AB /* Forkly_Mark_I */,
 			);
 			name = Forkly_Mark_I;
 			packageProductDependencies = (
